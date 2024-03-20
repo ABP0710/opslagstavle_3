@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208996576545",
+    "project_id": "sdfghj-a498e",
+    "storage_bucket": "sdfghj-a498e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208996576545:android:d9855a6dddef9317f02260",
+        "android_client_info": {
+          "package_name": "com.example.opslagstavle_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClU34tmnhFul1V1Qx4hMwVwlZo4871cuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
